@@ -483,7 +483,8 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_BoundingSphereOverride: {x: 3.0092666e-36, y: 1.6940659e-21, z: 2.3509887e-38,
+    w: 0}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -597,7 +598,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 089e5e6f6d2575d46973ce30b7332220, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 1
+  moveSpeed: 0.1
   yPos: 15
   zoomSpeed: 2
   lerpSpeed: 1
